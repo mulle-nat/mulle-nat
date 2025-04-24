@@ -1,3 +1,2 @@
-|                                  |     Main project                              |-|
-|---------------------------------------------------|------------------------------|-|
-|[![mulle-objc](https://avatars.githubusercontent.com/u/23309093?s=48&v=4)](https://mulle-objc.github.io/) | [mulle-objc](//mulle-objc.github.io)                   | Cross-platform Objective-C   |
+[![mulle-objc community page](a36cf976-1786-4726-9318-fd3f6c1a70c1.png)](https://mulle-objc.github.io/)
+
